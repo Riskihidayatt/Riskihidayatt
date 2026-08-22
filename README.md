@@ -90,6 +90,7 @@ me := Riski{
 <td width="50%" valign="top">
 
 ### 🗳️ PEMIRA Polinela
+
 **University-wide E-Voting System**
 `React` `Node.js` `Docker` `PostgreSQL`
 
@@ -99,6 +100,7 @@ Led a team of 3 in redesigning the platform end-to-end. Owned backend authentica
 <td width="50%" valign="top">
 
 ### 🏆 AITeC VI
+
 **National Competition Website**
 `PHP` `CodeIgniter 4` `MySQL`
 
@@ -110,6 +112,7 @@ Built the full admin dashboard — backend logic and interface — for a nationa
 <td width="50%" valign="top">
 
 ### 🍱 LastBite
+
 **Food Waste Reduction Platform**
 `React Native` `Spring Boot` `PostgreSQL` `Docker`
 
@@ -119,6 +122,7 @@ Mobile developer in a 5-person Agile team. Built the React Native app (auth, lis
 <td width="50%" valign="top">
 
 ### 🎓 E-Kuliah
+
 **Academic Information System**
 `PHP` `CodeIgniter 4` `MySQL`
 
@@ -131,6 +135,7 @@ Built CRUD functionality for core master-data modules (student, lecturer, class,
 <div align="center">
 
 ### 📱 LearningTech — Mobile Learning App
+
 `Java` `Android` `Firebase`
 
 Independently built a native Android app with Firebase Firestore/Storage, video streaming, and article modules — submitted to the Campus Innovation Challenge (CIC).
@@ -144,6 +149,7 @@ Independently built a native Android app with Firebase Firestore/Storage, video 
 <div align="center">
 
 ![Alibaba](https://img.shields.io/badge/ACA%20Developer-Alibaba%20Cloud%20Academy%20%C2%B7%202025-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j%20Certified%20Professional-Neo4j%20%C2%B7%202026-018BFF?style=flat-square&logo=neo4j&logoColor=white)
 ![BNSP](https://img.shields.io/badge/Junior%20Web%20Programmer-BNSP%20%C2%B7%202025-0B5FA5?style=flat-square)
 ![Cisco](https://img.shields.io/badge/NDG%20Linux%20Essentials-Cisco%20Networking%20Academy%20%C2%B7%202023-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
