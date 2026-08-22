@@ -1,76 +1,191 @@
-<h1 align="center">Hi, I'm Riski Hidayat 👋</h1>
-<h3 align="center">Software Engineer | Backend-focused Fullstack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/riski-hidayat-794254244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:riski191203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B5FA5,100:00ADD8&height=220&section=header&text=Riski%20Hidayat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend-Focused%20Fullstack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/riski-hidayat-794254244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:riski191203@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Riskihidayatt">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🧭 About Me
+<br/>
 
-I'm a software engineer based in Lampung, Indonesia, focused on backend systems and full-stack web/mobile development. I've built RESTful APIs and production systems using **Go**, **Java Spring Boot**, and **Node.js**, backed by hands-on internship experience at **PT. Enigma Cipta Humanika**. I'm currently completing a Bachelor's degree in Informatics while continuing to build and ship real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0B5FA5&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Go+%2B+Spring+Boot;Building+RESTful+APIs+that+scale;D3+Informatics+%C2%B7+GPA+3.89%2F4.00;Currently+pursuing+S1+Informatics;Learning+something+new+every+sprint+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🔭 Currently working as a Backend Developer, building Go-based RESTful APIs
-- 🎓 Pursuing a Bachelor's in Informatics at Asia Cyber University
-- 🌱 Deepening my knowledge of distributed systems and cloud infrastructure
-- ☁️ Alibaba Cloud Certified Associate (ACA) Developer
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+```go
+type Riski struct {
+    Location     string
+    Role         string
+    CurrentFocus []string
+    Education    string
+    FunFact      string
+}
+
+func (r Riski) Introduce() string {
+    return "Backend engineer from Lampung, Indonesia — " +
+           "building reliable APIs and systems with Go, Java, and Node.js."
+}
+
+me := Riski{
+    Location:     "Lampung, Indonesia",
+    Role:         "Software Engineer (Backend-focused Fullstack)",
+    CurrentFocus: []string{"Go", "Distributed Systems", "Cloud Infrastructure"},
+    Education:    "B.Sc. Informatics @ Asia Cyber University (ongoing)",
+    FunFact:      "Also runs a sound-system rental business on the side 🎧",
+}
+```
+
+- 🔭 Currently building Go-based RESTful APIs as a Backend Developer
+- 🎓 Pursuing a Bachelor's in Informatics — D3 completed with GPA **3.89/4.00**
+- ☁️ **Alibaba Cloud Certified Associate (ACA) Developer**
+- 🌱 Deepening my knowledge of distributed systems, streaming, and cloud infra
+- 🤖 Actively pair with AI tools like Claude to design, debug, and learn faster
 - 💬 Ask me about Go, Spring Boot, React/React Native, or database design
-- 🤖 I actively use AI tools like Claude to sharpen how I design, debug, and learn
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-**Languages:** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+<div align="center">
 
-**Frameworks:** ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter%204-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-**Cloud & Tools:** ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🚀 Featured Projects
+</div>
 
-**[PEMIRA Polinela – E-Voting System](https://github.com/Riskihidayatt)**
-React · Node.js · Docker · PostgreSQL
-Led a team of three in redesigning a university-wide e-voting platform — selected the architecture, built backend authentication and vote-counting logic, and designed the database schema for accurate, transparent vote recording. Currently migrating the stack to React, Node.js, and Docker.
+<br/>
 
-**AITeC VI – Official Competition Website**
-PHP · CodeIgniter 4 · MySQL
-Built the admin dashboard (backend + interface) for a national inter-polytechnic competition website, deployed live and used by ~20 polytechnics across Indonesia, including international guests from Timor-Leste.
+## 🚀 Featured Projects
 
-**LastBite – Food Waste Reduction Platform**
-React Native · Spring Boot · PostgreSQL · Docker
-Mobile developer in a 5-person Agile team. Built the React Native app (auth, food listing, ordering, profile) and integrated it with Spring Boot REST APIs as a bootcamp capstone project.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**E-Kuliah – Academic Information System**
-PHP · CodeIgniter 4 · MySQL
-Built CRUD functionality for core master-data modules (student, lecturer, class, department) in an academic information system used across Politeknik Negeri Lampung.
+### 🗳️ PEMIRA Polinela
+**University-wide E-Voting System**
+`React` `Node.js` `Docker` `PostgreSQL`
 
-**LearningTech – Mobile Learning App**
-Java · Android · Firebase
-Independently built a native Android learning app with Firebase Firestore/Storage integration, video streaming, and article modules — submitted to the Campus Innovation Challenge (CIC).
+Led a team of 3 in redesigning the platform end-to-end. Owned backend authentication, vote-counting logic, and schema design to guarantee accurate, transparent vote recording. Currently migrating the stack for better scalability.
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📜 Certifications
+### 🏆 AITeC VI
+**National Competition Website**
+`PHP` `CodeIgniter 4` `MySQL`
 
-- ACA Developer Certification — Alibaba Cloud Academy (2025)
-- Junior Web Programmer — BNSP (2025)
-- NDG Linux Essentials — Cisco Networking Academy (2023)
+Built the full admin dashboard — backend logic and interface — for a national inter-polytechnic competition deployed live to ~20 polytechnics across Indonesia, including guests from Timor-Leste.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+### 🍱 LastBite
+**Food Waste Reduction Platform**
+`React Native` `Spring Boot` `PostgreSQL` `Docker`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riskihidayatt&show_icons=true&theme=default" alt="Riski's GitHub stats" />
-</p>
+Mobile developer in a 5-person Agile team. Built the React Native app (auth, listings, ordering) and integrated it with Spring Boot REST APIs as a bootcamp capstone.
 
----
+</td>
+<td width="50%" valign="top">
 
-<p align="center"><i>Open to backend engineering opportunities — Go, Spring Boot, and beyond.</i></p>
+### 🎓 E-Kuliah
+**Academic Information System**
+`PHP` `CodeIgniter 4` `MySQL`
+
+Built CRUD functionality for core master-data modules (student, lecturer, class, department) used across Politeknik Negeri Lampung.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📱 LearningTech — Mobile Learning App
+`Java` `Android` `Firebase`
+
+Independently built a native Android app with Firebase Firestore/Storage, video streaming, and article modules — submitted to the Campus Innovation Challenge (CIC).
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+![Alibaba](https://img.shields.io/badge/ACA%20Developer-Alibaba%20Cloud%20Academy%20%C2%B7%202025-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
+![BNSP](https://img.shields.io/badge/Junior%20Web%20Programmer-BNSP%20%C2%B7%202025-0B5FA5?style=flat-square)
+![Cisco](https://img.shields.io/badge/NDG%20Linux%20Essentials-Cisco%20Networking%20Academy%20%C2%B7%202023-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Riskihidayatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riskihidayatt&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riskihidayatt&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riskihidayatt&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Riskihidayatt/Riskihidayatt/output/github-contribution-grid-snake.svg" width="100%" />
+
+<sub>⚙️ Snake animation auto-generates once the <code>generate-snake.yml</code> GitHub Action (below) runs on your repo.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Riskihidayatt&style=for-the-badge&color=0B5FA5" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0B5FA5&height=120&section=footer" width="100%"/>
