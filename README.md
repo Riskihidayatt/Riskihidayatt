@@ -48,6 +48,7 @@ me := Riski{
 - 🔭 Currently building Go-based RESTful APIs as a Backend Developer
 - 🎓 Pursuing a Bachelor's in Informatics — D3 completed with GPA **3.89/4.00**
 - ☁️ **Alibaba Cloud Certified Associate (ACA) Developer**
+- 🕸️ **Neo4j Certified Professional** (2026)
 - 🌱 Deepening my knowledge of distributed systems, streaming, and cloud infra
 - 🤖 Actively pair with AI tools like Claude to design, debug, and learn faster
 - 💬 Ask me about Go, Spring Boot, React/React Native, or database design
@@ -74,6 +75,7 @@ me := Riski{
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -90,7 +92,6 @@ me := Riski{
 <td width="50%" valign="top">
 
 ### 🗳️ PEMIRA Polinela
-
 **University-wide E-Voting System**
 `React` `Node.js` `Docker` `PostgreSQL`
 
@@ -100,7 +101,6 @@ Led a team of 3 in redesigning the platform end-to-end. Owned backend authentica
 <td width="50%" valign="top">
 
 ### 🏆 AITeC VI
-
 **National Competition Website**
 `PHP` `CodeIgniter 4` `MySQL`
 
@@ -112,7 +112,6 @@ Built the full admin dashboard — backend logic and interface — for a nationa
 <td width="50%" valign="top">
 
 ### 🍱 LastBite
-
 **Food Waste Reduction Platform**
 `React Native` `Spring Boot` `PostgreSQL` `Docker`
 
@@ -122,7 +121,6 @@ Mobile developer in a 5-person Agile team. Built the React Native app (auth, lis
 <td width="50%" valign="top">
 
 ### 🎓 E-Kuliah
-
 **Academic Information System**
 `PHP` `CodeIgniter 4` `MySQL`
 
@@ -135,7 +133,6 @@ Built CRUD functionality for core master-data modules (student, lecturer, class,
 <div align="center">
 
 ### 📱 LearningTech — Mobile Learning App
-
 `Java` `Android` `Firebase`
 
 Independently built a native Android app with Firebase Firestore/Storage, video streaming, and article modules — submitted to the Campus Innovation Challenge (CIC).
