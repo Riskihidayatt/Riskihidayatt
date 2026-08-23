@@ -51,7 +51,7 @@ me := Riski{
 - 🕸️ **Neo4j Certified Professional** (2026)
 - 🌱 Deepening my knowledge of distributed systems, streaming, and cloud infra
 - 🤖 Actively pair with AI tools like Claude to design, debug, and learn faster
-- 💬 Ask me about Go, Spring Boot, React/React Native, or database design
+- 💬 Ask me about Go, Spring Boot,NodeJs, React/React Native, or database design
 
 <br/>
 
