@@ -86,60 +86,50 @@ me := Riski{
 <br/>
 
 ## 🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🗳️ PEMIRA Polinela
 
-<table>
-<tr>
-<td width="50%" valign="top">
+University-wide E-Voting System
 
-### 🗳️ PEMIRA Polinela
-**University-wide E-Voting System**
-`React` `Node.js` `Docker` `PostgreSQL`
+Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
 
 Led a team of 3 in redesigning the platform end-to-end. Owned backend authentication, vote-counting logic, and schema design to guarantee accurate, transparent vote recording. Currently migrating the stack for better scalability.
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
+🏆 AITeC VI
 
-### 🏆 AITeC VI
-**National Competition Website**
-`PHP` `CodeIgniter 4` `MySQL`
+National Competition Website
+
+Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
 
 Built the full admin dashboard — backend logic and interface — for a national inter-polytechnic competition deployed live to ~20 polytechnics across Indonesia, including guests from Timor-Leste.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td> </tr> <tr> <td width="50%" valign="top">
+🍱 LastBite
 
-### 🍱 LastBite
-**Food Waste Reduction Platform**
-`React Native` `Spring Boot` `PostgreSQL` `Docker`
+Food Waste Reduction Platform
+
+Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
 
 Mobile developer in a 5-person Agile team. Built the React Native app (auth, listings, ordering) and integrated it with Spring Boot REST APIs as a bootcamp capstone.
 
-</td>
-<td width="50%" valign="top">
+</td> <td width="50%" valign="top">
+🎓 E-Kuliah
 
-### 🎓 E-Kuliah
-**Academic Information System**
-`PHP` `CodeIgniter 4` `MySQL`
+Academic Information System
+
+Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
 
 Built CRUD functionality for core master-data modules (student, lecturer, class, department) used across Politeknik Negeri Lampung.
 
-</td>
-</tr>
-</table>
+</td> </tr> </table> <div align="center">
+📱 LearningTech — Mobile Learning App
 
-<div align="center">
-
-### 📱 LearningTech — Mobile Learning App
-`Java` `Android` `Firebase`
+Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
 
 Independently built a native Android app with Firebase Firestore/Storage, video streaming, and article modules — submitted to the Campus Innovation Challenge (CIC).
 
-</div>
-
-<br/>
+</div> <br/>
 
 ## 📜 Certifications
 
