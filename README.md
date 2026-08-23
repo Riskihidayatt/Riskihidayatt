@@ -176,17 +176,6 @@ Independently built a native Android app with Firebase Firestore/Storage, video 
 
 <br/>
 
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Riskihidayatt/Riskihidayatt/output/github-contribution-grid-snake.svg" width="100%" />
-
-<sub>⚙️ Snake animation auto-generates once the <code>generate-snake.yml</code> GitHub Action (below) runs on your repo.</sub>
-
-</div>
-
-<br/>
 
 <div align="center">
 
