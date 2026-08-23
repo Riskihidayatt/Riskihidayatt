@@ -51,7 +51,7 @@ me := Riski{
 - 🕸️ **Neo4j Certified Professional** (2026)
 - 🌱 Deepening my knowledge of distributed systems, streaming, and cloud infra
 - 🤖 Actively pair with AI tools like Claude to design, debug, and learn faster
-- 💬 Ask me about Go, Spring Boot,NodeJs, React/React Native, or database design
+- 💬 Ask me about Go, Spring Boot, React/React Native, or database design
 
 <br/>
 
@@ -86,50 +86,65 @@ me := Riski{
 <br/>
 
 ## 🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
-🗳️ PEMIRA Polinela
 
-University-wide E-Voting System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
+### 🗳️ PEMIRA Polinela
+**University-wide E-Voting System**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 Led a team of 3 in redesigning the platform end-to-end. Owned backend authentication, vote-counting logic, and schema design to guarantee accurate, transparent vote recording. Currently migrating the stack for better scalability.
 
-</td> <td width="50%" valign="top">
-🏆 AITeC VI
+</td>
+<td width="50%" valign="top">
 
-National Competition Website
+### 🏆 AITeC VI
+**National Competition Website**
 
-Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 Built the full admin dashboard — backend logic and interface — for a national inter-polytechnic competition deployed live to ~20 polytechnics across Indonesia, including guests from Timor-Leste.
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🍱 LastBite
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Food Waste Reduction Platform
+### 🍱 LastBite
+**Food Waste Reduction Platform**
 
-Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 Mobile developer in a 5-person Agile team. Built the React Native app (auth, listings, ordering) and integrated it with Spring Boot REST APIs as a bootcamp capstone.
 
-</td> <td width="50%" valign="top">
-🎓 E-Kuliah
+</td>
+<td width="50%" valign="top">
 
-Academic Information System
+### 🎓 E-Kuliah
+**Academic Information System**
 
-Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 Built CRUD functionality for core master-data modules (student, lecturer, class, department) used across Politeknik Negeri Lampung.
 
-</td> </tr> </table> <div align="center">
-📱 LearningTech — Mobile Learning App
+</td>
+</tr>
+</table>
 
-Tampilkan Gambar Tampilkan Gambar Tampilkan Gambar
+<div align="center">
+
+### 📱 LearningTech — Mobile Learning App
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 Independently built a native Android app with Firebase Firestore/Storage, video streaming, and article modules — submitted to the Campus Innovation Challenge (CIC).
 
-</div> <br/>
+</div>
+
+<br/>
 
 ## 📜 Certifications
 
